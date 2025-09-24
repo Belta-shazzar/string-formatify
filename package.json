@@ -1,0 +1,21 @@
+{
+  "name": "string-formatify",
+  "version": "1.0.0",
+  "description": "A simple string formatter utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string",
+    "formatter",
+    "slugify",
+    "capitalize",
+    "camelCase"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
